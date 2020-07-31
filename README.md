@@ -1,3 +1,9 @@
+This project work with json server
+
+Get root path project, open cmd and write:
+npm run json-server
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
